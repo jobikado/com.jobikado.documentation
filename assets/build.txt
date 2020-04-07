@@ -8,7 +8,7 @@ $ gem update asciidoctor
 +++ PDF Jobikado Businessplan 
 asciidoctor-pdf --trace -D C:\Daten\com.jobikado.documentation\businessplan C:\Daten\com.jobikado.documentation\businessplan\businessplan.adoc
 
-asciidoctor-pdf --trace -D C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan C:\Users\Andreas\git\jobikado\com.jobikado.documentation\businessplan\businessplan.adoc
+asciidoctor-pdf --trace -D C:\Daten\jobikado\com.jobikado.documentation\businessplan C:\Daten\jobikado\com.jobikado.documentation\businessplan\businessplan.adoc
 
 asciidoctor -a linkcss -a allow-uri-read -v -a stylesheet=css\jobikado.css --trace -D C:\Daten\com.jobikado.documentation\businessplan\out\html C:\Daten\com.jobikado.documentation\businessplan\businessplan.adoc
 

@@ -1,7 +1,7 @@
 = Mitarbeiterbindung und Karriere: Businessplan
 Andreas Petersell, Roman Meyer
-:revnumber: 2.0
-:revdate: 18.02.2020
+:revnumber: 2.1
+:revdate: 31.03.2020
 :description: Ein Businessportal, dass das Unternehmen und die Fachkräfte ohne Personalverantwortung in den Mittelpunkt stellt.
 :organization: Jobikado
 :pdf-theme: default
@@ -29,7 +29,7 @@ toc::[]
 
 == Zusammenfassung
 
-Der Name Jobikado leitet sich von einer großen Gefahr ab: kündigen zu viele Fachkräfte zur gleichen Zeit, ist es nicht mehr möglich, jahrelang erworbene Erfahrung weiterzugeben. Das Unternehmen implodiert, ähnlich wie beim Mikado. Entzieht man dem Wirrwar zugleich zu viele Stäbchen, fällt alles in sich zusammen.
+Der Name _Jobikado_ leitet sich von einer großen Gefahr ab: kündigen zu viele Fachkräfte zur gleichen Zeit, ist es nicht mehr möglich, jahrelang erworbene Erfahrung weiterzugeben. Das Unternehmen implodiert, ähnlich wie beim Mikado. Entzieht man dem Wirrwar zugleich zu viele Stäbchen, fällt alles in sich zusammen.
 
 *Sie sind Geschäftsführer?*
 
@@ -192,6 +192,8 @@ Wir halten automatisierte Abläufe für jede Phase des Mitarbeiter-Lebenszyklus 
 ____
 
 Schon die Wortschöpfung _Mitarbeiter-Lebenszyklus_ untermauert die Eindimensionalität. Vertrauen jedoch entsteht nur im ausgewogenem Verhältnis. Erschwerend kommt hinzu, das die Lebenswirklichkeit des Mitarbeiters, also der Fachkraft ohne Personalverantwortung, nicht die Geschäftsführung zum Dreh- und Angelpunkt hat. Es sind die unmittelbaren Vorgesetzten. Ein Mitarbeiter kommt neu in ein Unternehmen wegen der guten Reputation des Unternehmens in der Gesamtheit, kündigt aber wegen eines bestimmten Vorgesetzten. Vor diesem Hintergrund nützen auch Ansagen (eindimensionale Kommunikation) der Geschäftsführung via App wenig.
+
+Ein Webportal hat die Nöte von Fachkräften erkannt: www.getwanted.com. Das Startup _Wanted_, das seit Juli 2019 an einer Plattform arbeitet, wo Unternehmen sich mit einem Stellenangebot bei einer anonymen Fachkraft bewerben. Bedinungen: Angabe des Jahresgehalts.
 indexterm:[Jobnetzwerk]
 indexterm:[Socializing]
 indexterm:[Xing]
@@ -203,7 +205,8 @@ indexterm:[Headhunter]
 indexterm:[Peakon]
 indexterm:[Heartcount]
 indexterm:[get-in-it]
-indexterm:[Benify]]
+indexterm:[Benify]
+indexterm:[Wanted]
 
 ===== Business-Netzwerk wie Xing
 
@@ -331,9 +334,9 @@ Das Unternehmen findet Anerkennung als souveräner Arbeitgeber, der Probleme fr�
 
 ==== Problem 1: Wünscht sich höheres Gehalt - traut sich nicht, es einzufordern
 
-Das Gehalt ist Grundlage eines jeden Arbeitsverhältnisses. Habe ich ein zu geringes Gehalt, nützen mir auch die sogenannten Benefits wenig: der Vermieter fordert die Miete in Euro ein, und nicht in Fitness-Gutscheinen. Habe ich als Fachkraft ein adäquates Gehalt, bin ich in der Lage, für alles weitere im Unternehmen einzutreten und zu kämpfen: für Agilität, Respekt, Wohlfühlklima uvm. Es ist wie ein Gourmet, der auf eine liebevolle Tischdekoration schwört und erkennt, dass das Essen völlig versalzen ist. Die Tischdekoration wird für den mißratenen Genuss nicht entschädigen können. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
+Das Gehalt ist Grundlage eines jeden Arbeitsverhältnisses. Habe ich ein zu geringes Gehalt, nützen mir auch die sogenannten Benefits wenig: der Vermieter fordert die Miete in Euro ein und nicht in Form von gefüllten Kaffeetassen. Habe ich als Fachkraft ein adäquates Gehalt, bin ich in der Lage, für alles Weitere im Unternehmen zu kämpfen: für Innovation, Respekt, Wohlfühlklima uvm. Ein angemessenes Gehalt über Jahre hinweg ist die profundeste Anerkennung der Leistungen einer festangestellten Fachkraft.
 
-Für eine kontinuierliche Gehaltsanpassung wäre es das Optimum, dass jede Fachkraft ein gutes Verhältnis zum Vorgesetzten hat und womöglich im ständigen Kontakt zur Geschäftsführung steht. Darüber hinaus hat er oder sie ein gesundes Selbstbewußtsein, um regelmäßig ein höheres Gehalt einzufordern. Viele Mitarbeiter haben jedoch nicht den Mut, kontinuierlich beim Vorgesetzten vorzusprechen.
+Für eine kontinuierliche Gehaltsanpassung wäre es das Optimum, dass jede Fachkraft ein gutes Verhältnis zum Vorgesetzten hat und womöglich im ständigen Kontakt zur Geschäftsführung steht. Darüber hinaus hat er oder sie ein gesundes Selbstbewusstsein. Viele Mitarbeiter haben jedoch nicht den Mut, kontinuierlich beim Vorgesetzten vorzusprechen.
 
 *Lösung*: Wenn das Unternehmen seinen Schutzschirm effektiv nutzt, erhöht es nach einigen Gehaltsangeboten fremder Unternehmen das Gehalt des Mitarbeiters.
 
@@ -357,7 +360,7 @@ Die Fachkraft ist zum Jobwechsel entschlossen, muss aber aufgrund ihres Alters N
 
 *Lösung*: Die Fachkraft veröffentlicht in ihrem Profil lediglich ihre Qualifikationen und Kenntnisse sowie die Dauer, wie lange sie bereits diese Kenntnisse anwendet. Nicht jedoch das Alter, Herkunft, Geschlecht und Hautfarbe. Diskriminierungen diesbezüglich werden weniger wahrscheinlich.
 
-=== Value Proposition für die Kunden
+=== Value Proposition für die Fachkraft
 
 ==== Unterstützung bei Gehaltsanpassungen
 
@@ -389,6 +392,8 @@ indexterm:[Value Proposition,Fachkraft]
 indexterm:[Value Proposition,Fachkraft]
 indexterm:[Xing]
 indexterm:[Kununu]
+
+Jobikado hat einen Weg gefunden, die oben genannten Probleme mit EINER Lösung zu bekämpfen und abzumildern.
 
 === Zielgruppen
 
@@ -683,14 +688,20 @@ Aber auch der Vertrieb über Multiplikatoren wird eine große Rolle spielen. Die
 
 Geschäftlich arbeit Jobikado profitorientiert. Die Einnahmen sollen hauptsächlich aus monatlichen Abogebühren für die Nutzung der Plattform generiert werden. Durch ein Jobangebot oder durch den Abruf von aufbereiteten statistischen Daten werden weitere Einmalzahlungen eingebracht. Sowohl der Anwender, der seine Jobprofil hochlädt und als Fachkraft am Jobikado-System teilnimmt als auch die Firmen, die ihren Fachkräfte halten oder andere abwerben wollen, werden zu monatlichen Gebührenzahlungen gebeten. Dafür bietet Jobikado unterschiedliche Abo-Modelle an. 
 
-Wie sieht das Geschäftssystem für Ihr Produkt/Ihre Dienstleistung aus?
-Jobikado stellt als Plattform eine Technologie bereit, die es ermöglicht sukzessive zu wachsen. Zunächst werden Profile der Akteure auf Jobikado verarbeitet, dann wird die Jobikadoweiche bestimmt und Jobangebot sowie Messaging-Bus zu den Kernkomponenten hinzugefügt. Durch Marketing und Freund-von-Freund - Benachrichtigungen wird von Jobikado zunächst eine User-Zahl von 500 anvisiert, um weiteres wichtiges Feedback zu erlangen. Durch einen iterativen Verbesserungsprozess kann die Plattform an den Features feilen und die Nachfrage durch markttaugliche Produktoptimierungen erhöhen. Mit dem Abo-Modell wird Jobikado monatliche Einkünft generieren, die für Stabilität und Sicherheit beim Wachsen des Unternehmens aus der Sicht der Gründer sehr hilfreich ist. Die eingenommen Gelder werden zunehmend für den Ausbau der Plattform garantieren. 
+Jobikado stellt als Plattform eine Technologie bereit, die es ermöglicht, sukzessive zu wachsen. Zunächst werden Profile der Akteure auf Jobikado verarbeitet, dann wird die "Jobikado-Weiche" bestimmt und Jobangebot sowie Messaging-Bus zu den Kernkomponenten hinzugefügt.
 
+Durch Marketing und Freund-von-Freund-Benachrichtigungen wird von Jobikado zunächst eine User-Zahl von 500 anvisiert, um weiteres wichtiges Feedback zu erlangen. Durch einen iterativen Verbesserungsprozess kann die Plattform an den Features feilen und die Nachfrage durch markttaugliche Produktoptimierungen erhöhen. Mit dem Abo-Modell wird Jobikado monatliche Einkünft generieren, die für Stabilität und Sicherheit beim Wachsen des Unternehmens sorgen. Die eingenommen Gelder werden zunehmend für den Ausbau der Plattform genutzt. 
 
-Auf welchen Aktivitäten liegt Ihr Fokus?
+Der Fokus des Geschäfts liegt auf der Bereitstellung der Jobikado-Plattform, deren kontinuierliche Optimierung und sämtliche Supportaktivitäten, die im Matching der Fachkräfte mit den Unternehmen anfallen, um eine hohe Bereitschaft der Unternehmen zur Zahlung der regelmäßigen Abo-Gebühren sicherzustellen.
 
+Jobikado wird also folgende Aktivitäten immer in Eigenregie durchführen:
 
-Welche Aktivitäten wollen Sie selbst ausführen? 
+* Entwicklung und Optimierung der Plattform
+* Kundensupport für Unternehmen und Fachkräfte
+* Rechnungsabwicklung
+* Akquisetätigkeit
+
+Die Akquisetätigkeit wird ausschließlich von Jobikado selbst durchgeführt, da das Geschäftsmodell auf gegenseitigem Vertrauen basiert und nicht von teilnehmenden Unternehmen durchgeführt werden sollte. Auch eine Ausgliederung an Dienstleister verbietet sich.
 
 Vergeben Sie Aktivitäten an Dritte?
 
